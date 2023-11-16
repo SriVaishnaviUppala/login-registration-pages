@@ -1,0 +1,30 @@
+.d1{
+ float:left;
+ width:500px;
+ height:200px;
+ padding:20px;
+ }
+ .d2{
+ float:left;
+ width:920px;
+ height:200px;
+  padding:20px;
+ }
+ .div{
+ margin-bottom:20px;
+ background-color:white;
+ }
+ .container .row1 .d1{
+ background-color:white;
+ }
+.container .row1 .d2{
+ background-color:white;
+ }
+ .clear{
+   clear:both;
+ }
+.d3{
+background-color:blue;
+height:20px;
+width:100%;
+}
